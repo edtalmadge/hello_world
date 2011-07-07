@@ -1,1 +1,0 @@
-Just a test of node, express & ejs. Testing to see how this works on Cloud9. No original code or anything very useful here.
